@@ -1,0 +1,11 @@
+DOCUMENT TITLE: Employee Probationary Period Policy
+TYPE: Policy
+VERSION: 2023
+PUBLICATION DATE: 2023-01-01
+EFFECTIVE DATE: 2023-01-01
+DEPARTMENT: All
+AUTHORITY LEVEL: 3
+STATUS: Active
+
+Section 1: Probation Length
+The standard probationary period for all newly hired employees is 3 months.

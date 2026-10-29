@@ -1,0 +1,11 @@
+DOCUMENT TITLE: Enterprise Confidentiality Agreement
+TYPE: Policy
+VERSION: 2024
+PUBLICATION DATE: 2024-01-01
+EFFECTIVE DATE: 2024-01-01
+DEPARTMENT: All
+AUTHORITY LEVEL: 3
+STATUS: Active
+
+Section 1: Non-Disclosure Scope
+All employees are bound by strict non-disclosure of proprietary source code, trade secrets, and customer data during and after employment.

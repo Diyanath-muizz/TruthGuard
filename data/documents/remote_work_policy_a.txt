@@ -1,0 +1,11 @@
+DOCUMENT TITLE: Engineering Remote Work Policy A
+TYPE: Policy
+VERSION: 2024.1
+PUBLICATION DATE: 2024-06-01
+EFFECTIVE DATE: 2024-06-01
+DEPARTMENT: Engineering
+AUTHORITY LEVEL: 3
+STATUS: Active
+
+Section 2: Remote Schedule
+Engineering staff are permitted to work remotely up to 3 days per week with team lead approval.

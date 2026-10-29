@@ -1,0 +1,11 @@
+DOCUMENT TITLE: Corporate Travel Expense Policy v1
+TYPE: Policy
+VERSION: 1.0
+PUBLICATION DATE: 2023-01-01
+EFFECTIVE DATE: 2023-01-01
+DEPARTMENT: All
+AUTHORITY LEVEL: 3
+STATUS: Superseded
+
+Section 4: Daily Meal Per Diem
+Employees traveling on corporate business are reimbursed up to $500 per trip for travel meals.

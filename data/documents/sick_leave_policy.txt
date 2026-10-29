@@ -1,0 +1,11 @@
+DOCUMENT TITLE: Sick Leave Entitlement Policy
+TYPE: Policy
+VERSION: 2024
+PUBLICATION DATE: 2024-01-01
+EFFECTIVE DATE: 2024-01-01
+DEPARTMENT: All
+AUTHORITY LEVEL: 3
+STATUS: Active
+
+Section 1: Paid Sick Days
+Employees are allocated 10 days of paid sick leave annually. Medical certificates are required for absences exceeding 3 consecutive days.

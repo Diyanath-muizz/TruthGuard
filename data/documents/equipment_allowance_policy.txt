@@ -1,0 +1,11 @@
+DOCUMENT TITLE: Home Office Equipment Allowance
+TYPE: Policy
+VERSION: 2024
+PUBLICATION DATE: 2024-01-01
+EFFECTIVE DATE: 2024-01-01
+DEPARTMENT: All
+AUTHORITY LEVEL: 3
+STATUS: Active
+
+Section 1: Stipend
+Full-time remote employees receive a one-time stipend of $1,000 for ergonomic home office setup.
